@@ -4,7 +4,7 @@ using thelab.mvc;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-public class MainButtonController :Controller<sdlApplication>  {
+public class MainButtonController :Controller<SdlApplication>  {
 	public GameObject lastButton;
     private GameObject currentButton;
 	private Transform diTrans;

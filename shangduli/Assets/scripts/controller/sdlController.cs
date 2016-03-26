@@ -2,7 +2,7 @@
 using System.Collections;
 using thelab.mvc;
 
-public class sdlController :Controller<sdlApplication>  {
+public class SdlController :Controller<SdlApplication>  {
 
 	// Use this for initialization
 	void Start () {

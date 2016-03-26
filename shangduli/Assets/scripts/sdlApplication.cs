@@ -2,7 +2,7 @@
 using System.Collections;
 using thelab.mvc;
 
-public class sdlApplication:BaseApplication<sdlModel,sdlView,sdlController>  {
+public class SdlApplication:BaseApplication<SdlModel,SdlView,SdlController>  {
 
 
 }

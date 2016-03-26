@@ -1,8 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
-using thelab.mvc;
 
-public class SdlView : View<SdlApplication> {
+public class SlideController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

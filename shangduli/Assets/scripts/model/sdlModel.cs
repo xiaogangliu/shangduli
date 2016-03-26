@@ -2,7 +2,7 @@
 using System.Collections;
 using thelab.mvc;
 
-public class sdlModel : Model<sdlApplication> {
+public class SdlModel : Model<SdlApplication> {
 
 	// Use this for initialization
 	void Start () {
